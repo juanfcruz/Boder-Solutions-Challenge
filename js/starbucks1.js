@@ -64,9 +64,9 @@ function setup (){
     text("B", acCenterPositionX[1]-10,acCenterPositionY[1]+10);
     text("C", acCenterPositionX[2]-10,acCenterPositionY[2]+10)
     text("D", acCenterPositionX[3]-10,acCenterPositionY[3]+10);
-    text("F", acCenterPositionX[4]-10,acCenterPositionY[4]+10);
-    text("G", acCenterPositionX[5]-10,acCenterPositionY[5]+10);
-    text("H", acCenterPositionX[6]-10,acCenterPositionY[6]+10);
+    text("E", acCenterPositionX[4]-10,acCenterPositionY[4]+10);
+    text("F", acCenterPositionX[5]-10,acCenterPositionY[5]+10);
+    text("G", acCenterPositionX[6]-10,acCenterPositionY[6]+10);
 
     // Numbers for people
     textSize(25);
