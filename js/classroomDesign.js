@@ -42,6 +42,7 @@ function setup (){
     rect(110,60,80,150); 
     ellipse(teacherPostionX, teacherPositionY, 80, 80);
     fill(255,0,0);
+    textSize(20);
     text("Teacher", 40, 120);
     
   }
