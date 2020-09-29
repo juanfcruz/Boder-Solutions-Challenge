@@ -27,7 +27,7 @@ html {
   }
   nav {
     white-space: nowrap;
-    background: rgb(255, 210, 80);
+    background: rgb(23, 45, 68);
   }
   nav ul {
     list-style: none;
@@ -47,7 +47,7 @@ html {
   nav ul li a {
     display: block;
     padding: 0.5rem 1rem;
-    color: rgb(0, 0, 0);
+    color: rgb(216,191,216);
     text-decoration: none;
     font-size: 20px;
   }
