@@ -1,21 +1,23 @@
-# p5js-boilerplate
-Write Processing just like you would in the native Processing IDE, except it works in your browser and you can put your sketch in the web. The only difference is that you write code in Javascript instead of Java.
+# FlowChecked 
 
-## What it is
-This repository serves as a template for writing responsive [Processing](https://processing.org/) code for web browsers. It is based on the [p5js](http://p5js.org/) framework for Javascript. The template is ready to go, so you can instantly start writing code for your project and don't have to worry about the environment. You only have to work on one file and still have a working environment. By default, the HTML canvas displaying the code gets scaled full page and resizes with the browser window. Debugging works just as fine as in the native Processing environment when you use your browser console.
 
-As this boilerplate code is meant to serve for experiments, none of the code is minified.
+## Air Flow Simulation
+
+
+
+
+
+FlowChecked aims to be the first step towards an airflow simulation to predict the propagation of airborne viruses in closed spaces. Our main goal is to create awareness among society and prevent new transmissions of coronavirus, by showing the dangers of enclosed activities. The project will reduce the risk of the spread of viruses such as COVID-19 by suggesting safer layout configurations and air conditioning systems designs that lower the risk of infection in indoor spaces. 
+
+
+## Tech/framework used
+
+JavaScript| 
+HTML/CSS
+
+
+
 
 ## How to
-1. [Download](https://github.com/bsplt/p5js-boilerplate/archive/master.zip) or clone the git.
-2. Write your Processing code into `/js/main.js`. You can follow the p5js [workflow](http://p5js.org/get-started/) or write Javascript your style.
-3. Change `index.html` to your requirements (or do nothing to it). You can write HTML as you like and still have the Processing sketch in the background.
-4. Launch your `index.html` and have fun.
 
-## Included frameworks
-Versions used in this compilation:
-- [p5.js](http://p5js.org/) v0.6.0
-- p5.dom.js v0.3.4
-- p5.sound.js v0.3.7
-- [normalize.css](https://github.com/anishathalye/?normalize) v8.0.0
-- structure and HTML based on [HTML5 Boilerplate](https://html5boilerplate.com/) v6.0.1
+For more details on the project visit our GitHub page by switching to the gh-pages branch or clicking [here](https://juancruz-py.github.io/Boder-Solutions-Challenge/)
